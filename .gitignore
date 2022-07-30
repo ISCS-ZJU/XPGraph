@@ -1,0 +1,5 @@
+.vscode/
+bin/
+results/
+*.txt
+*.csv
